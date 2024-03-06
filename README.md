@@ -1,5 +1,6 @@
 # Coffee Shop Sales Analysis
 
+![](coffee_intro_image.png)
 
 ### Project Overview
 
