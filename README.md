@@ -19,6 +19,7 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales and revenue performance of Maven Roasters, a coffee shop chain with three locations in New York City over the first half of the last year. By analyzing various aspects of the sales data, we seek to identify trends, patterns, make data driven decisions, and oppurtunities for the business.
 
