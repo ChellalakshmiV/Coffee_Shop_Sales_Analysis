@@ -4,6 +4,17 @@
 
 ### Table of Contents:
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
+- [Data Vizualization through Dashboard](#data-vizualization-through-dashboard)
+- [Findings](#findings)
+  
+  - [Key Insights](#key-insights)
+  - [Customer Preference Insights](#customer-preference-insights)
+  - [Revenue Insights](#revenue-insights)
+  - [Location Insights](#location-insights)
 - [Recommendations](#recommendations)
 
 
@@ -26,7 +37,7 @@ In the initial data preparation phase, we performed the following tasks:
 2. Added new columns to calculate revenue, month, day of week, hour, weekend/weekday.
 3. Data cleaning and formatting.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis 
 
 EDA involved exploring the sales data using pivot tables to answer the key questions, such as:
 
