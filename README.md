@@ -46,7 +46,7 @@ EDA involved exploring the sales data using pivot tables to answer the key quest
 - How many transactions are done by day of week and by hour of day?
 - What are the peak sales period?
 - Which products are top sellers?
-- What are the Top 15 product types leading in taransactions?
+- What are the Top 15 product types leading in transactions?
 - which of the coffe shop location generated highest sales and orders?
 - How many transactions are done by product category?
 - which category plays the main role in revenue contribution?
