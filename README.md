@@ -90,8 +90,8 @@ The analysis results are summarized as follows:
 ### Recommendations
 
 Based on the following analysis, we recommend the following actions:
-1. **Weekday Revenue Optimization:** Given that weekdays dominate revenue generation, it's prudent to tailor promotions and events to capitalize on the bustling weekday traffic.
-2. **Operational Adjustments in Lower Manhattan:** To potentially improve margins in Lower Manhattan, consider adjusting operational hours to close shop after 6 pm, aligning with the observed decline in transactions during evening hours.
+1. **Weekday Revenue Optimization:** Given that weekdays dominate revenue generation, it's prudent to tailor promotions and events to capitalize on the bustling weekday traffic aiming to enhance revenue generation by 10%.
+2. **Operational Adjustments in Lower Manhattan:** To potentially improve margins in Lower Manhattan, contributing to the targeted 15% reduction in operational inefficiencies, consider adjusting operational hours to close shop after 6 pm, aligning with the observed decline in transactions during evening hours.
 3. **Evening Promotions:** Implementing special offers or discounts in the evening could stimulate sales post-peak hours, tapping into untapped potential during traditionally slower periods.
 4. **Category Prioritization:** Direct focus towards the main revenue-contributing categories, including coffee (39%), tea (28%), bakery items (12%), drinking chocolate (10%), and coffee beans (6%).
 5. **Trimming Non-Performing Categories:** Considering the minimal contribution to revenue, thoughtful consideration should be given to potentially eliminating packaged chocolates and flavors, which contribute only around 0.63% and 1.20% respectively, streamlining offerings to focus on high-impact products.
